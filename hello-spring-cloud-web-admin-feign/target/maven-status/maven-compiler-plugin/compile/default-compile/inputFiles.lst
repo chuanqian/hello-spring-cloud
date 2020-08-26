@@ -1,0 +1,5 @@
+D:\code\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\zaqacu\hello\spring\cloud\web\admin\feign\config\HystrixDashboardConfiguration.java
+D:\code\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\zaqacu\hello\spring\cloud\web\admin\feign\service\AdminService.java
+D:\code\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\zaqacu\hello\spring\cloud\web\admin\feign\WebAdminFeignApplication.java
+D:\code\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\zaqacu\hello\spring\cloud\web\admin\feign\controller\AdminController.java
+D:\code\hello-spring-cloud\hello-spring-cloud-web-admin-feign\src\main\java\com\zaqacu\hello\spring\cloud\web\admin\feign\service\hystrix\AdminServiceHystrixImpl.java
