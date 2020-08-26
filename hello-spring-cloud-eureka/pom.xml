@@ -40,7 +40,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.zaqacu.hello.spring.cloud.eureka.EurekaApplication</mainClass>
+                    <mainClass>com.zaqacu.hello.spring.cloud.zuul.eureka.EurekaApplication</mainClass>
                 </configuration>
             </plugin>
         </plugins>
