@@ -3,6 +3,10 @@ spring:
     allow-bean-definition-overriding: true
   application:
     name: hello-spring-cloud-zipkin
+  boot:
+    admin:
+      client:
+        url: http://localhost:8084
 
 server:
   port: 9411
@@ -16,6 +20,4 @@ management:
   metrics:
     web:
       server:
-        request:
-          autotime:
-            enabled: false
+        auto-time-requests: false
